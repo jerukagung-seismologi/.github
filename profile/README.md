@@ -4,14 +4,13 @@
 
 ## Misi Kami
 Kami bertujuan untuk:
-- **Mengembangkan teknologi pemantauan dan analisis** untuk memprediksi d.
+- **Mengembangkan teknologi pemantauan dan analisis** untuk mempelajari dinamika atmosfer dan geologi.
 - **Mengedukasi masyarakat** mengenai kesiapsiagaan terhadap bencana alam dan cara-cara untuk mengurangi risiko kerusakan.
 - **Berpartisipasi dalam penelitian global** guna berkontribusi pada pemahaman tentang kebumian.
 
-## Layanan Kami
-Jerukagung Seismologi menawarkan berbagai layanan terkait seismologi dan ilmu bumi:
-- **Pemantauan Seismik Real-Time:** Kami memiliki jaringan stasiun seismik yang menyediakan data pergerakan tanah secara real-time.
+## Penelitian Kami
 - **Analisis Data Seismik:** Tim ahli kami melakukan analisis mendalam terhadap data gempa bumi untuk memahami pola aktivitas seismik.
+- **Analisis Data Cuaca:** Tim ahli kami melakukan analisis mendalam terhadap data gempa bumi untuk memahami pola cuaca dan iklim.
 - **Penelitian dan Publikasi:** Kami aktif dalam penelitian ilmiah dan berkolaborasi dengan universitas serta lembaga penelitian lainnya.
 
 ## Kolaborasi
