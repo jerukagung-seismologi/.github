@@ -1,6 +1,6 @@
 # Jerukagung Seismologi
 
-**Jerukagung Seismologi** adalah sebuah organisasi penelitian yang berfokus pada studi ilmu kebumian seperti fisika dan kimia astmosfer, fisika dan kimia bumi, dan astronomi. Kami berdedikasi untuk memantau, menganalisis, dan memahami dinamika alam semesta serta memberikan kontribusi terhadap mitigasi bencana alam dan peningkatan pemahaman ilmiah terkait dinamika bumi.
+**Jerukagung Seismologi** adalah organisasi penelitian yang berfokus pada studi ilmu kebumian seperti fisika dan kimia astmosfer, fisika dan kimia bumi, dan astronomi. Kami berdedikasi untuk memantau, menganalisis, dan memahami dinamika alam semesta serta memberikan kontribusi terhadap mitigasi bencana alam dan peningkatan pemahaman ilmiah terkait dinamika bumi.
 
 ## Misi Kami
 Kami bertujuan untuk:
