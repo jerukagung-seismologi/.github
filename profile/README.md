@@ -8,10 +8,10 @@ Kami bertujuan untuk:
 - **Mengedukasi masyarakat** mengenai kesiapsiagaan terhadap bencana alam dan cara-cara untuk mengurangi risiko kerusakan.
 - **Berpartisipasi dalam penelitian global** guna berkontribusi pada pemahaman tentang kebumian.
 
-## Penelitian Kami
-- **Analisis Data Seismik:** Tim ahli kami melakukan analisis mendalam terhadap data gempa bumi untuk memahami pola aktivitas seismik.
-- **Analisis Data Cuaca:** Tim ahli kami melakukan analisis mendalam terhadap data gempa bumi untuk memahami pola cuaca dan iklim.
-- **Penelitian dan Publikasi:** Kami aktif dalam penelitian ilmiah dan berkolaborasi dengan universitas serta lembaga penelitian lainnya.
+## Lingkup Penelitian Kami
+- **Analisis Data Seismik:** kami melakukan analisis mendalam terhadap data kegempaan untuk memahami pola aktivitas seismik.
+- **Analisis Data Cuaca dan Iklim:** kami melakukan analisis mendalam terhadap data pencatatan meteorologi untuk memahami pola cuaca dan iklim.
+- **Penelitian dan Publikasi:** aktif dalam penelitian ilmiah dan berkolaborasi dengan universitas serta lembaga penelitian lainnya.
 
 ## Kolaborasi
 Kami selalu terbuka untuk bekerja sama dengan peneliti, universitas, lembaga pemerintah, serta komunitas lokal dalam berbagai proyek penelitian dan mitigasi bencana. Dengan berkolaborasi, kami berharap dapat memaksimalkan ilmu pengetahuan untuk kebaikan umat manusia.
