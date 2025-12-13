@@ -7,7 +7,7 @@
 - **Mengedukasi masyarakat** mengenai kesiapsiagaan terhadap bencana alam dan cara-cara untuk mengurangi risiko kerusakan.
 - **Berpartisipasi dalam penelitian global** guna berkontribusi pada pemahaman tentang kebumian.
 
-## Lingkup Penelitian Kami
+## Lingkup Penelitian
 - **Analisis Data Seismik:** kami melakukan analisis mendalam terhadap data kegempaan untuk memahami pola aktivitas seismik.
 - **Analisis Data Cuaca dan Iklim:** kami melakukan analisis mendalam terhadap data pencatatan meteorologi untuk memahami pola cuaca dan iklim.
 - **Penelitian dan Publikasi:** aktif dalam penelitian ilmiah dan berkolaborasi dengan universitas serta lembaga penelitian lainnya.
