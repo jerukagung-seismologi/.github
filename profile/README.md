@@ -16,7 +16,7 @@
 Kami selalu terbuka untuk bekerja sama dengan peneliti, universitas, lembaga pemerintah, serta komunitas lokal dalam berbagai proyek penelitian dan mitigasi bencana. Dengan berkolaborasi, kami berharap dapat memaksimalkan ilmu pengetahuan untuk kebaikan umat manusia.
 
 ## Hubungi Kami
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeris_seismologi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeris_meteorologi/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jeris2518)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/halaman_anda)
 
